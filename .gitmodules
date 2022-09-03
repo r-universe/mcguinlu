@@ -8,3 +8,8 @@
 	url = https://github.com/mcguinlu/robvis
 	shallow = true
 	registered = true
+[submodule "triangulate"]
+	path = triangulate
+	url = https://github.com/mcguinlu/triangulate
+	shallow = true
+	registered = false
