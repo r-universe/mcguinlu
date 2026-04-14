@@ -5,7 +5,3 @@
 [submodule "robvis"]
 	path = robvis
 	url = https://github.com/mcguinlu/robvis
-[submodule "triangulate"]
-	path = triangulate
-	url = https://github.com/mcguinlu/triangulate
-	registered = false
